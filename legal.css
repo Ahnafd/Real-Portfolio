@@ -1,0 +1,38 @@
+.justice{
+    font-family: "EB Garamond", serif;
+}
+.sub{
+    font-family: "EB Garamond", serif;
+}
+.dlm{
+    font-family: "EB Garamond", serif;
+    font-size: 40px;
+}
+.card-title{
+    font-family: "EB Garamond", serif;
+}
+#slide1{
+    object-fit: contain;
+}
+#slide2{
+    object-fit: contain;
+}
+#slide3{
+    object-fit: contain;
+}
+.gig{
+    font-family: "EB Garamond", serif;
+    color: white;
+}
+.accord{
+    font-family: "EB Garamond", serif;
+}
+@media screen and (max-width: 700px) {
+    .imga{
+        display: none;
+    }
+    .dlm{
+        font-size: 30px;
+    }
+    
+}
